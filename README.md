@@ -3,6 +3,8 @@ A more visible UI element for Thief's Spear Weapon Mechanics
 
 Helps keep track of the spear's combo chains, as well as Distracting Throw's uptime.
 
+It's highly recommended to pair this pack with the thief stealth pack: https://github.com/Vennyhedgie/Thief-Stealth-Reffect-Pack
+
 This pack comes with two options. Spear icons or simple icons:
 
 Spear icons use the icons for slot 2 since they have generally more distinctive graphics, being animal themed:
