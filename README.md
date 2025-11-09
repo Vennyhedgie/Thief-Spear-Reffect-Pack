@@ -35,4 +35,8 @@ I wanted to have this element centered over initiative, but because of the speci
 
 <img width="421" height="252" alt="image" src="https://github.com/user-attachments/assets/ecf48e6f-a7f3-4036-b96f-a1bbfb86bf95" />
 
+# Note
+If you use the Thief Axe reffect pack, they will overlap, and you will have to move one of them out of the way. Since thief generally doesn't use two weapons actively due to how initiative works, it's up to you to choose which pack to use:
+
+<img width="431" height="266" alt="image" src="https://github.com/user-attachments/assets/947ae7bb-fbf2-4723-913c-96101f48f54d" />
 
